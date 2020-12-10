@@ -23,4 +23,4 @@ Dynamic Stats of your github  - [github-readme-stats](https://github.com/anuragh
 
 ## Guides 
 
-https://guides.github.com/features/mastering-markdown/
+[GitHub's Guide to Markdown](https://guides.github.com/features/mastering-markdown/) 

@@ -9,3 +9,7 @@
 [Joins in Pandas](https://www.analyticsvidhya.com/blog/2020/02/joins-in-pandas-master-the-different-types-of-joins-in-python/) - We are always trying to merge join and concat pandas Dataframes, I found this guide which gives a nice explanation of whats happening, and how to do join data. 
 
 [Substring Rows](https://datatofish.com/substring-pandas-dataframe/) - A useful guide for those times when you need to grab a row based on a substring within that row. Maybe you need all the rows that have a string which contain 'xyz' this guide should help.
+
+### Courses
+[
+Kaggle Short Course](https://www.kaggle.com/learn/pandas) - A short course to get you through the basics of Pandas

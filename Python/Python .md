@@ -7,3 +7,7 @@
 ## Regex
 
 [Pythex](https://pythex.org) - A useful tools to help make those regex expressions 
+
+## Obsfucat
+
+[Oxyry](https://pyob.oxyry.com) - An online tool to obsfucat python code 

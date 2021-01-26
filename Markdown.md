@@ -19,7 +19,7 @@ Dynamic Stack Overflow Stats for readme -  [github-readme-stackoverflow](https:/
 
 Dynamic Stats of your github  - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
-
+wakaTime weekly dev stats - [wakatime](https://github.com/athul/waka-readme#update-your-readme)
 
 ## Guides 
 

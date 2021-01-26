@@ -24,3 +24,10 @@ wakaTime weekly dev stats - [wakatime](https://github.com/athul/waka-readme#upda
 ## Guides 
 
 [GitHub's Guide to Markdown](https://guides.github.com/features/mastering-markdown/) 
+
+
+## ReadMe 
+
+Having a cool readme is now all the rage. 
+
+Awesome Collection of readme tools - [repo of readme tools -](https://github.com/abhisheknaiidu/awesome-github-profile-readme#tools) 

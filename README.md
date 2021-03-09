@@ -7,3 +7,4 @@ The idea behind this project is to have a list of tools that AI engineers can us
 ## Contributors
 
 [![Contributors Display](https://badges.pufler.dev/contributors/jobyid/AI_Engineer_Awesome_Tools?size=50&padding=5&bots=true)](https://github.com/jobyid/AI_Engineer_Awesome_Tools)
+[![Contributors Display](https://badges.pufler.dev/contributors/jobyid/AI_Engineer_Awesome_Tools?size=50&padding=5&bots=true)](https://github.com/Tobias-GH-Schulz)

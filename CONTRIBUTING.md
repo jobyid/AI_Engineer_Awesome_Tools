@@ -6,4 +6,4 @@ When submitting to this repo please bear the following in mind:
 
 1. Submit on your own branch and make pull requests 
 2. Present tools and information you know and use, make the case for why it's good. 
-3. Be posative. 
+3. Be positive. 

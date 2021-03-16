@@ -9,3 +9,9 @@
 ## Guides
 
 [Text Preprocessing](https://www.kdnuggets.com/2018/08/practitioners-guide-processing-understanding-text-2.html) - A great walk through of typical issues you might have with text and how to solve them.
+
+
+
+## Interesting models
+
+[VADER - Valence Aware Dictionary and sEntiment Reasoning](https://github.com/cjhutto/vaderSentiment) - one of the top models for sentiment analysis
